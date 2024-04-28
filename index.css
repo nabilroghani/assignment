@@ -1,0 +1,36 @@
+body{
+    background-image: url("./images/background.jpg");
+    background-repeat: no-repeat;
+  background-size: auto;
+  background-size: cover;
+}
+#one{
+    width: 1510px;
+    height: 200px;
+    border-radius: 23px;
+    
+    
+}
+#two{
+    text-align: right;
+    
+}
+#three{
+    font-size: 100px;
+    color: rgb(201, 68, 28);
+    width: 1500px;
+    text-align: center;
+    height: 150px;
+    
+    text-shadow: 2px 2px #dae3e0;
+    
+}
+#four{
+    color: white;
+    width: 1500px;
+    height: 300px;
+    text-align: center;
+    text-shadow: 2px 2px #902229;
+    font-size: x-large;
+    
+}
